@@ -18,7 +18,7 @@
 ##### User Authentication
 ![](images/auth.jpg)
 ##### Covid Cases Per Country
-![](images/cases.jpg)
+![](images/cases1.jpg)
 ##### Covid News
 ![](images/news.jpg)
 ##### Map of Hospitals and Services (with filter)
