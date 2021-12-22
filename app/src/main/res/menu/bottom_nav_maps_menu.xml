@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/maps_nav_button"
+        android:icon="@drawable/ic_map"
+        app:showAsAction="ifRoom"
+        android:title="Map" />
+    <item
+        android:id="@+id/hospitals_nav_btn"
+        android:icon="@drawable/ic_hospital"
+        app:showAsAction="ifRoom"
+        android:title="Hospitals" />
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="orange_200">#ffc77d</color>
+    <color name="orange_500">#ff8d00</color>
+    <color name="orange_700">#f47100</color>
+    <color name="pink_200">#f186c0</color>
+    <color name="pink_700">#c7006e</color>
+
+    <color name="colorPrimary">@color/orange_500</color>
+    <color name="colorPrimaryDark">@color/orange_700</color>
+    <color name="colorAccent">@color/pink_200</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+</resources>

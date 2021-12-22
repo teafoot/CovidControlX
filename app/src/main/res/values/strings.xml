@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Covid Control X</string>
+
+    <string name="astraZeneca">Astra Zeneca</string>
+    <string name="moderna">Moderna</string>
+    <string name="pfizer">Pfizer</string>
+    <string name="jj">J&amp;J</string>
+
+    <string name="astraZenecaTxt">This vaccine is approved for people who are 18 years of age and
+        older. It is developed in U.K. It is stable at refrigerator temperatures and
+        has a good safety profile.</string>
+    <string name="modernaTxt">The U.S. Food and Drug Administration (FDA) has issued an Emergency
+        Use Authorization (EUA) to permit the emergency use of the unapproved product, MODERNA
+        COVID-19 VACCINE, for active immunization to prevent COVID-19 in individuals 18 years of
+        age and older.It teaches our cells how to make a protein that will trigger an immune
+        response inside our bodies.</string>
+    <string name="pfizerTxt">Pfizer-BioNTech (COMIRNATY) received U.S. Food and Drug
+        Administration (FDA) approval on August 23, 2021, for individuals 16 years of age and
+        older. It is developed by the German biotechnology company BioNTech.</string>
+    <string name="jjTxt">All vaccine ingredients are safe. Nearly all of the ingredients
+        in COVID-19 vaccines are also the ingredients in many foods – fats, sugars, and salts.
+        The J&amp;J/Janssen COVID-19 vaccine also contains a piece of a modified virus that is
+        not the virus that causes COVID-19. This modified virus is called the vector virus.</string>
+
+    <string name="dosage_amount">Dosage amount:</string>
+    <string name="vaccine_efficacy">Vaccine efficacy:</string>
+    <string name="side_effects">Side effects:</string>
+    <string name="get_vaccinated_btn">Get Vaccinated</string>
+
+    <string name="available_doses">Available doses:</string>
+    <string name="hospitals">Hospitals:</string>
+
+    <string name="continue_btn">Continue</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_name">Enter your name...</string>
+    <string name="id_number">ID Number</string>
+    <string name="enter_id_number">Enter ID number...</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="enter_date_of_birth">Enter date of birth...</string>
+    <string name="vaccine_type">Vaccine Type</string>
+    <string name="enter_vaccine_type">Enter Vaccine type...</string>
+    <string name="date_of_getting_vaccination">Date of getting vaccination</string>
+    <string name="enter_date_of_vaccine">Enter vaccination date...</string>
+    <string name="vaccine_location">Vaccine Location</string>
+    <string name="enter_vaccine_location">Enter vaccine location...</string>
+    <string name="number_of_doses_taken">Number of doses taken</string>
+    <string name="enter_number_of_doses_taken">Enter numOfDoses taken...</string>
+    <string name="download_certificate">Download Certificate</string>
+
+    <string-array name="vaccine_types">
+        <item>Astra Zeneca</item>
+        <item>Moderna</item>
+        <item>Pfizer</item>
+        <item>J&amp;J</item>
+    </string-array>
+
+    <string-array name="dose_type">
+        <item>First Dose</item>
+        <item>Second Dose</item>
+    </string-array>
+
+    <!--    datepicker_fragment_layout -->
+    <string name="title_activity_main">DateTimePicker Example</string>
+    <string name="selected_time">The time you picked will be shown here.</string>
+    <string name="selected_date">The date you picked will be shown here.</string>
+    <string name="selected_datetime">The date and time you picked will be shown here.</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="original_button">Framework Picker</string>
+    <string name="pick_datetime">Pick Date+Time</string>
+    <string name="mode_24_hours">Use 24 hour mode</string>
+    <string name="mode_dark">Use dark theme</string>
+    <string name="mode_custom_accent">Use custom accent</string>
+    <string name="vibrate">Vibrate on touch</string>
+    <string name="dismiss">Dismiss on pause (eg: orientation change)</string>
+    <string name="title">Show a title</string>
+    <string name="show_version_2">Use marshmallow layout</string>
+    <string name="show_year_first">Show the year picker first</string>
+    <string name="enable_seconds">Show seconds picker</string>
+    <string name="enable_minutes">Show minutes picker</string>
+    <string name="limit_times">Limit selectable times</string>
+    <string name="limit_dates">Limit selectable dates</string>
+    <string name="disable_dates">Disable specific dates</string>
+    <string name="disable_times">Disable specific times</string>
+    <string name="highlight_dates">Highlight certain dates</string>
+    <string name="switch_orientation">Switch scroll orientation</string>
+    <string name="default_selection">Use alternative default selection</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_title_time">Time</string>
+    <string name="tab_title_date">Date</string>
+    <string name="tab_title_datetime">Date+Time</string>
+</resources>

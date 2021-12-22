@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque"
+    >
+    <item>
+        <color android:color="@color/colorPrimary"/>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/theactuallogo"
+            android:scaleType="fitXY"
+            android:gravity="center"/>
+    </item>
+
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:src="@drawable/svgtopngtest"-->
+<!--            android:scaleType="fitXY"-->
+<!--            android:gravity="center"/>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:drawable="@drawable/rapidtest_service"-->
+<!--        android:gravity="center"-->
+<!--        >-->
+        <!--    <item android:drawable="@drawable/ic_svgtest"-->
+        <!--    <item android:drawable="@drawable/splash_logo"-->
+<!--    </item>-->
+</layer-list>

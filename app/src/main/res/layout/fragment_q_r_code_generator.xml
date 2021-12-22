@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+<!--    this edit text is juut for testing the generation of qr. This will be removed later on-->
+<!-- This will be replaced by databse calls of user data using firebase auth-->
+
+    <EditText
+        android:id="@+id/et_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_generate"
+        android:text="Generate QR"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/output"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"/>
+
+</LinearLayout>
+
+
+<!--remove this comment-->
+<!---->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
