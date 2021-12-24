@@ -33,6 +33,10 @@
 ![](images/vaccine-info.jpg)
 ##### Hospital Appointment Date/Time Selection
 ![](images/booking.jpg)
+##### Custom date selection
+![](images/custom-date-picker.jpg)
+##### Custom time selection
+![](images/custom-time-picker.jpg)
 ##### User Personal Information Entry
 ![](images/user-personal-info.jpg)
 ##### Appointment E-Ticket/Receipt
